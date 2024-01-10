@@ -8,3 +8,5 @@ alert(s);
 s = "Python syntax highlighting"
 print s
 ```
+
+![](https://github.com/SAAnastasia/portfolio/blob/main/img/segue-blog-TheLifeofaSystemsAnalyst-MAIN.png?raw=true)
